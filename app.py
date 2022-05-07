@@ -19,3 +19,4 @@ def show_pets(pet):
 @app.route("/facts")
 def facts():
     return("This is the fact page! here are some facts about the pets!")
+    
